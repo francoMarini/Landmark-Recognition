@@ -15,3 +15,8 @@ Non avendo a disposizione grandi risorse di calcolo, per l’addestramento delle
 
 
 <img src="https://miro.medium.com/max/1020/1*lk3xo4jdkQ2SHKRRDFxYHw.jpeg" width="300" height="300">
+
+# Prima fase
+Un primo problema che abbiamo dovuto affrontare  è stato quello di **scaricare le immagini** che costituiscono il dataset: all’inizio infatti avevamo a disposizione solo gli *URL* e volevamo ottenere le foto corrispondenti, organizzandole in diverse *directory* in base al landmark di appartenenza.\
+Successivamente, abbiamo utilizzato una particolare libreria Python, chiamata **[split-folder](https://pypi.org/project/split-folders/)** la quale ci ha permesso di splittare il dataset iniziale in Training Set (*80%*), Validation Set (*10%*) e Test Set (*10%*).\
+Il codice relativo a questa **prima fase** del progetto si trova all'interno di *[Data Loader.ipynb](https://github.com/francoMarini/Landmark-Recognition/blob/master/Data%20Loader.ipynb)*.
