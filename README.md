@@ -42,7 +42,7 @@ Gli obiettivi che ci eravamo prefissati sono stati pienamente raggiunti, ottenen
 
 <img src="https://i.ibb.co/R20T7Pb/grafico.jpg">
 
-Inoltre, abbiamo deciso di salvare le nostre migliori reti con tutti i pesi già addestrati all’interno della cartella `Models` [*[Download](https://drive.google.com/drive/folders/1Dp0MlYsGVkBI2YdhRVNYvDBs627teZYt?usp=sharing)*]: in questo modo potrete divertirvi ad utilizzarle subito, senza dover attendere il tempo per il training.
+Inoltre, abbiamo deciso di salvare le nostre migliori reti con tutti i pesi già addestrati all’interno della cartella  *[Models](https://drive.google.com/drive/folders/1Dp0MlYsGVkBI2YdhRVNYvDBs627teZYt?usp=sharing)* : in questo modo potrete divertirvi ad utilizzarle subito, senza dover attendere il tempo per il training.
 
 *Tanoshinde kudasai* :roller_coaster: :confetti_ball:
 
