@@ -1,6 +1,6 @@
 # Introduzione
 Hai mai guardato le foto delle tue vacanze chiedendoti: *qual è il nome di questo tempio che ho visitato in Cina? Chi ha creato questo monumento che ho visto in Francia?*  :japanese_castle::tokyo_tower: \
-In questi casi il **Landmark Recognition** può aiutare!  :muscle:\
+In questi casi la **Landmark Recognition** può aiutare!  :muscle:\
 Questa tecnologia può prevedere le label delle località direttamente dai pixel dell'immagine, aiutando gli utenti ad organizzare meglio le proprie raccolte di foto.
 
 # Problema ed Approccio
